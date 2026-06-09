@@ -1,0 +1,6 @@
+[submodule "ms/post-service"]
+	path = ms/post-service
+	url = https://github.com/MarcuusFerreira/post-service.git
+[submodule "ms/text-processor"]
+	path = ms/text-processor
+	url = https://github.com/MarcuusFerreira/text-processor-service.git
